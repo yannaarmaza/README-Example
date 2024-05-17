@@ -1,40 +1,22 @@
-# Project Title
-
-Simple overview of use/purpose.
+# DegenGamingToken
+ A Blockchain Token for In-Game Rewards
 
 ## Description
-
-An in-depth paragraph about your project and overview of use.
+DegenGamingToken (DGT) is a cryptocurrency designed for gaming platforms. Players can earn tokens as rewards, transfer them to others, redeem them for in-game items, and burn tokens that are no longer needed.
 
 ## Getting Started
-
 ### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
+Clone the repository:
+https://github.com/yannaarmaza/ymae.git
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+To deploy the contract:
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+1.Install the necessary dependencies:
+2.Compile and deploy the contract using a tool like Remix or Truffle.
 
 ## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
+Metacrafter [@yannaarmaza]
 
 ## License
 
